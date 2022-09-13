@@ -4,10 +4,10 @@
 * main -prints putchar
 * Return: always 0
 */
+
 int main(void)
-int _putchar (char c);
 {
-    _putchar('_'
+    _putchar('_');
     _putchar('p');
     _putchar('u');
     _putchar('t');
@@ -20,4 +20,3 @@ int _putchar (char c);
     return (0);
 
  }
-
